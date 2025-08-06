@@ -3,7 +3,7 @@ from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet
 
-pdf_path = "PTE_Exam_Score_Breakdown_Updated.pdf"
+pdf_path = "PTE.pdf"
 doc = SimpleDocTemplate(pdf_path, pagesize=A4)
 styles = getSampleStyleSheet()
 elements = []
