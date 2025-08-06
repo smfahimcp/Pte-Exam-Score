@@ -98,7 +98,7 @@ tbody tr:nth-child(odd) {
 ])
 
 # Write the notebook to disk
-with open("pte.ipynb", "w", encoding="utf-8") as f:
+with open("PTE.ipynb", "w", encoding="utf-8") as f:
     nbformat.write(nb, f)
 
-"Generated styled notebook: pte.ipynb"
+"Generated styled notebook: PTE.ipynb"
