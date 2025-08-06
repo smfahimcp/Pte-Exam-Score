@@ -1,7 +1,7 @@
 import csv
 
 # File path (Replit friendly)
-csv_path = "pte.csv"
+csv_path = "PTE.csv"
 
 # All sections and their tasks
 sections = [
